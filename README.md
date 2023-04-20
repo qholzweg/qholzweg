@@ -1,4 +1,8 @@
-### Hi there 👋
+### ⛵ Howdyho! Name's Anton, I'm a frontend-developer
+
+- ☀️ I enjoy writing clean and robust code for projects that make someone's life better
+- 🌱 I want to learn more about optimizing components for production
+- 🤓 There's always more to learn from people I work with
 
 <!--
 **qholzweg/qholzweg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
